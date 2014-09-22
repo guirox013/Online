@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class DatabaseCharacter : MonoBehaviour {
-	public Transform head; 
-	// Use this for initializationBLABLABLAL
+public class teSTE : MonoBehaviour {
+
+	// Use this for initialization
 	void Start () {
 	
 	}
